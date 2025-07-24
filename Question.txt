@@ -1,0 +1,5 @@
+Question:-
+Take an integer array and print only the numbers that are in consecutive orders of 3.
+Enter size: 12
+Enter numbers: 1 2 3 2 2 2 11 4 4 4 3 3
+Output: 2 4
